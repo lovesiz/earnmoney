@@ -22,8 +22,10 @@ li{
   padding-top:10px;
 }
 .orta{
-  width:55%;
+  width:45%;
   margin: -18px auto;
+  position:absolute;
+  top:0;
   
 }
 .sag{
